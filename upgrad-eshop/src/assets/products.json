@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Emergo Runner",
+      "price": 1679,
+      "description":"",
+      "image": "product1.jpg",
+      "category": [0,2]
+    },
+    {
+      "id": 2,
+      "name": "Levi Strauss Jeans",
+      "price": 1000,
+      "description": "",
+      "image": "product2.jpg",
+      "category": [0]
+    },
+    {
+        "id": 3,
+        "name": "Iphone 12",
+        "price": 100000,
+        "description": "",
+        "image": "product2.jpg",
+        "category": [1]
+    }
+]
